@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/gyshi/wl/Community
+CMAKE_SOURCE_DIR = /home/gyshi/Com
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/gyshi/wl/Community
+CMAKE_BINARY_DIR = /home/gyshi/Com
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Community.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Community.dir/flags.make
 
 CMakeFiles/Community.dir/clique.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/clique.o: clique.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Community.dir/clique.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/clique.o -c /home/gyshi/wl/Community/clique.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Community.dir/clique.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/clique.o -c /home/gyshi/Com/clique.cpp
 
 CMakeFiles/Community.dir/clique.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/clique.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/clique.cpp > CMakeFiles/Community.dir/clique.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/clique.cpp > CMakeFiles/Community.dir/clique.i
 
 CMakeFiles/Community.dir/clique.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/clique.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/clique.cpp -o CMakeFiles/Community.dir/clique.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/clique.cpp -o CMakeFiles/Community.dir/clique.s
 
 CMakeFiles/Community.dir/clique.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Community.dir/clique.o.provides.build: CMakeFiles/Community.dir/cliqu
 
 CMakeFiles/Community.dir/condition.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/condition.o: condition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Community.dir/condition.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/condition.o -c /home/gyshi/wl/Community/condition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Community.dir/condition.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/condition.o -c /home/gyshi/Com/condition.cpp
 
 CMakeFiles/Community.dir/condition.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/condition.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/condition.cpp > CMakeFiles/Community.dir/condition.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/condition.cpp > CMakeFiles/Community.dir/condition.i
 
 CMakeFiles/Community.dir/condition.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/condition.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/condition.cpp -o CMakeFiles/Community.dir/condition.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/condition.cpp -o CMakeFiles/Community.dir/condition.s
 
 CMakeFiles/Community.dir/condition.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/Community.dir/condition.o.provides.build: CMakeFiles/Community.dir/co
 
 CMakeFiles/Community.dir/core.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/core.o: core.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Community.dir/core.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/core.o -c /home/gyshi/wl/Community/core.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Community.dir/core.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/core.o -c /home/gyshi/Com/core.cpp
 
 CMakeFiles/Community.dir/core.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/core.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/core.cpp > CMakeFiles/Community.dir/core.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/core.cpp > CMakeFiles/Community.dir/core.i
 
 CMakeFiles/Community.dir/core.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/core.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/core.cpp -o CMakeFiles/Community.dir/core.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/core.cpp -o CMakeFiles/Community.dir/core.s
 
 CMakeFiles/Community.dir/core.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/Community.dir/core.o.provides.build: CMakeFiles/Community.dir/core.o
 
 CMakeFiles/Community.dir/ego_community.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/ego_community.o: ego_community.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Community.dir/ego_community.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/ego_community.o -c /home/gyshi/wl/Community/ego_community.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Community.dir/ego_community.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/ego_community.o -c /home/gyshi/Com/ego_community.cpp
 
 CMakeFiles/Community.dir/ego_community.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/ego_community.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/ego_community.cpp > CMakeFiles/Community.dir/ego_community.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/ego_community.cpp > CMakeFiles/Community.dir/ego_community.i
 
 CMakeFiles/Community.dir/ego_community.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/ego_community.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/ego_community.cpp -o CMakeFiles/Community.dir/ego_community.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/ego_community.cpp -o CMakeFiles/Community.dir/ego_community.s
 
 CMakeFiles/Community.dir/ego_community.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/Community.dir/ego_community.o.provides.build: CMakeFiles/Community.di
 
 CMakeFiles/Community.dir/file_manage.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/file_manage.o: file_manage.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Community.dir/file_manage.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/file_manage.o -c /home/gyshi/wl/Community/file_manage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Community.dir/file_manage.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/file_manage.o -c /home/gyshi/Com/file_manage.cpp
 
 CMakeFiles/Community.dir/file_manage.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/file_manage.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/file_manage.cpp > CMakeFiles/Community.dir/file_manage.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/file_manage.cpp > CMakeFiles/Community.dir/file_manage.i
 
 CMakeFiles/Community.dir/file_manage.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/file_manage.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/file_manage.cpp -o CMakeFiles/Community.dir/file_manage.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/file_manage.cpp -o CMakeFiles/Community.dir/file_manage.s
 
 CMakeFiles/Community.dir/file_manage.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/Community.dir/file_manage.o.provides.build: CMakeFiles/Community.dir/
 
 CMakeFiles/Community.dir/graph.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/graph.o: graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Community.dir/graph.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/graph.o -c /home/gyshi/wl/Community/graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Community.dir/graph.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/graph.o -c /home/gyshi/Com/graph.cpp
 
 CMakeFiles/Community.dir/graph.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/graph.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/graph.cpp > CMakeFiles/Community.dir/graph.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/graph.cpp > CMakeFiles/Community.dir/graph.i
 
 CMakeFiles/Community.dir/graph.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/graph.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/graph.cpp -o CMakeFiles/Community.dir/graph.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/graph.cpp -o CMakeFiles/Community.dir/graph.s
 
 CMakeFiles/Community.dir/graph.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/Community.dir/graph.o.provides.build: CMakeFiles/Community.dir/graph.
 
 CMakeFiles/Community.dir/graph_algorithm.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/graph_algorithm.o: graph_algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Community.dir/graph_algorithm.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/graph_algorithm.o -c /home/gyshi/wl/Community/graph_algorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Community.dir/graph_algorithm.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/graph_algorithm.o -c /home/gyshi/Com/graph_algorithm.cpp
 
 CMakeFiles/Community.dir/graph_algorithm.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/graph_algorithm.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/graph_algorithm.cpp > CMakeFiles/Community.dir/graph_algorithm.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/graph_algorithm.cpp > CMakeFiles/Community.dir/graph_algorithm.i
 
 CMakeFiles/Community.dir/graph_algorithm.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/graph_algorithm.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/graph_algorithm.cpp -o CMakeFiles/Community.dir/graph_algorithm.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/graph_algorithm.cpp -o CMakeFiles/Community.dir/graph_algorithm.s
 
 CMakeFiles/Community.dir/graph_algorithm.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/Community.dir/graph_algorithm.o.provides.build: CMakeFiles/Community.
 
 CMakeFiles/Community.dir/include.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/include.o: include.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Community.dir/include.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/include.o -c /home/gyshi/wl/Community/include.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Community.dir/include.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/include.o -c /home/gyshi/Com/include.cpp
 
 CMakeFiles/Community.dir/include.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/include.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/include.cpp > CMakeFiles/Community.dir/include.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/include.cpp > CMakeFiles/Community.dir/include.i
 
 CMakeFiles/Community.dir/include.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/include.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/include.cpp -o CMakeFiles/Community.dir/include.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/include.cpp -o CMakeFiles/Community.dir/include.s
 
 CMakeFiles/Community.dir/include.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/Community.dir/include.o.provides.build: CMakeFiles/Community.dir/incl
 
 CMakeFiles/Community.dir/ks_core.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/ks_core.o: ks_core.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Community.dir/ks_core.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/ks_core.o -c /home/gyshi/wl/Community/ks_core.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Community.dir/ks_core.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/ks_core.o -c /home/gyshi/Com/ks_core.cpp
 
 CMakeFiles/Community.dir/ks_core.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/ks_core.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/ks_core.cpp > CMakeFiles/Community.dir/ks_core.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/ks_core.cpp > CMakeFiles/Community.dir/ks_core.i
 
 CMakeFiles/Community.dir/ks_core.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/ks_core.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/ks_core.cpp -o CMakeFiles/Community.dir/ks_core.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/ks_core.cpp -o CMakeFiles/Community.dir/ks_core.s
 
 CMakeFiles/Community.dir/ks_core.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/Community.dir/ks_core.o.provides.build: CMakeFiles/Community.dir/ks_c
 
 CMakeFiles/Community.dir/main.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/main.o: main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Community.dir/main.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/main.o -c /home/gyshi/wl/Community/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Community.dir/main.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/main.o -c /home/gyshi/Com/main.cpp
 
 CMakeFiles/Community.dir/main.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/main.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/main.cpp > CMakeFiles/Community.dir/main.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/main.cpp > CMakeFiles/Community.dir/main.i
 
 CMakeFiles/Community.dir/main.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/main.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/main.cpp -o CMakeFiles/Community.dir/main.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/main.cpp -o CMakeFiles/Community.dir/main.s
 
 CMakeFiles/Community.dir/main.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/Community.dir/main.o.provides.build: CMakeFiles/Community.dir/main.o
 
 CMakeFiles/Community.dir/tree.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/tree.o: tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Community.dir/tree.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/tree.o -c /home/gyshi/wl/Community/tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Community.dir/tree.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/tree.o -c /home/gyshi/Com/tree.cpp
 
 CMakeFiles/Community.dir/tree.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/tree.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/tree.cpp > CMakeFiles/Community.dir/tree.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/tree.cpp > CMakeFiles/Community.dir/tree.i
 
 CMakeFiles/Community.dir/tree.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/tree.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/tree.cpp -o CMakeFiles/Community.dir/tree.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/tree.cpp -o CMakeFiles/Community.dir/tree.s
 
 CMakeFiles/Community.dir/tree.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/Community.dir/tree.o.provides.build: CMakeFiles/Community.dir/tree.o
 
 CMakeFiles/Community.dir/truss.o: CMakeFiles/Community.dir/flags.make
 CMakeFiles/Community.dir/truss.o: truss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Community.dir/truss.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/truss.o -c /home/gyshi/wl/Community/truss.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Community.dir/truss.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Community.dir/truss.o -c /home/gyshi/Com/truss.cpp
 
 CMakeFiles/Community.dir/truss.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Community.dir/truss.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/wl/Community/truss.cpp > CMakeFiles/Community.dir/truss.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gyshi/Com/truss.cpp > CMakeFiles/Community.dir/truss.i
 
 CMakeFiles/Community.dir/truss.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Community.dir/truss.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/wl/Community/truss.cpp -o CMakeFiles/Community.dir/truss.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gyshi/Com/truss.cpp -o CMakeFiles/Community.dir/truss.s
 
 CMakeFiles/Community.dir/truss.o.requires:
 
@@ -377,7 +377,7 @@ Community: CMakeFiles/Community.dir/tree.o
 Community: CMakeFiles/Community.dir/truss.o
 Community: CMakeFiles/Community.dir/build.make
 Community: CMakeFiles/Community.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gyshi/wl/Community/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable Community"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gyshi/Com/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable Community"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Community.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -405,6 +405,6 @@ CMakeFiles/Community.dir/clean:
 .PHONY : CMakeFiles/Community.dir/clean
 
 CMakeFiles/Community.dir/depend:
-	cd /home/gyshi/wl/Community && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/gyshi/wl/Community /home/gyshi/wl/Community /home/gyshi/wl/Community /home/gyshi/wl/Community /home/gyshi/wl/Community/CMakeFiles/Community.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/gyshi/Com && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/gyshi/Com /home/gyshi/Com /home/gyshi/Com /home/gyshi/Com /home/gyshi/Com/CMakeFiles/Community.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Community.dir/depend
 

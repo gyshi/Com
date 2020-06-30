@@ -242,7 +242,7 @@ int main(int argc, char *argv[]) {
         cerr << i <<endl;
        // printf("开始计算\n");
        //  start = clock();//初始化开始时间
-
+         FindCore(graph); 
 	 double start,finish;
          start = omp_get_wtime();
          query.Start(graph);

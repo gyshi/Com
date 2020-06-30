@@ -18,6 +18,8 @@ typedef  vector<int> Core;
 //};
 class Vertex{
     public:
+        int i_;
+         int degree;
         vector<int> attribute_;
 };
 class XYEdge{
@@ -40,6 +42,7 @@ class Graph{
         vector<vector<int> > edge_;
         vector<Vertex> vertex_;
         vector <int> line;
+        vector<int> coreID;
         unordered_map<long long, int> exist_edge_;
         unordered_map<int, int> exist_vertex_;
         void Init();

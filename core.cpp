@@ -124,7 +124,22 @@ CoreDelLine FindCore(Graph &graph){
 //    }
     //
     //  cout << "Finish "<<__FUNCTION__<<endl;
-    return core_del_line;
+ 
+   for (int i = 0; i < core_del_line.size(); ++i) {
+    sort(core_del_line[i].del_vertex_.begin(), core_del_line[i].del_vertex_.end(), greater<int>());
+    for (int j = 0; j < core_del_line[i].del_vertex_.size(); ++j) {
+
+   graph.vertex_[core_del_line[i].del_vertex_[j]].i_ = core_del_line[i].del_vertex_[j];
+   graph.vertex_[core_del_line[i].del_vertex_[j]].degree = deg[core_del_line[i].del_vertex_[j]];
+   graph.coreID.push_back(core_del_line[i].del_vertex_[j]);
+
+}
+
+
+
+}
+
+   return core_del_line;
 }
 
 Graph FindKCore(Graph graph, int k_degree){

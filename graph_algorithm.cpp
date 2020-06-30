@@ -450,13 +450,13 @@ vector<int> Query::StartID(Graph graph){
 
     vector <int> stID;
 
-    for (int i = 0;i < graph.n_; ++i){
+    for (int i = graph.coreID.size() - 1;i >= 0; --i){
     //  if (graph.edge_[i].size() < this->theory_k_min) continue;
         int flag = 0;
-        for (auto attribute : graph.vertex_[i].attribute_) {
+        for (auto attribute : graph.vertex_[graph.coreID[i]].attribute_) {
             for (auto query : this->queries) {
                 if(attribute == std::get<0>(query)) {
-                    stID.push_back(i);
+                    stID.push_back(graph.coreID[i]);
                     flag = 1;
                     break;
                 }
