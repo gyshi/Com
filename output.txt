@@ -1,0 +1,91 @@
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 1000
+query size 3
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 206
+Vertices number of containing n attribute:
+0 : 794
+1 : 154
+2 : 52
+Vertices number of concrete query attributes:
+{1}: 116
+{1,7}: 52
+{7}: 38
+Attributes  number :
+{1,}: 168
+{7,}: 90
+Sort Vertices number of concrete query attributes:
+{1}: 116
+{1,7}: 52
+{7}: 38
+ReidTime: 0.020813 seconds
+SearchTime: 0.009218 seconds
+CheckTime: 0.004230 seconds
+计算结束
+TestDataset: 0.033433 seconds
+Find_Core_K: 2
+Find_Core_Vertices:59 599 77 
+Find_Core_Size: 3
+Search call times: 40542
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 207
+Vertices number of containing n attribute:
+0 : 793
+1 : 176
+2 : 31
+Vertices number of concrete query attributes:
+{1}: 137
+{1,5}: 31
+{5}: 39
+Attributes  number :
+{1,}: 168
+{5,}: 70
+Sort Vertices number of concrete query attributes:
+{1}: 137
+{5}: 39
+{1,5}: 31
+ReidTime: 0.017566 seconds
+SearchTime: 7.381299 seconds
+CheckTime: 3.297118 seconds
+计算结束
+TestDataset: 7.401157 seconds
+Find_Core_K: 2
+Find_Core_Vertices:69 517 809 104 261 
+Find_Core_Size: 5
+Search call times: 39646102
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+ReidTime: 0.008219 seconds
+SearchTime: 1.826533 seconds
+CheckTime: 0.746518 seconds
+计算结束
+TestDataset: 1.836086 seconds
+Find_Core_K: 2
+Find_Core_Vertices:77 598 941 949 153 
+Find_Core_Size: 5
+Search call times: 11701420
+Finish 3

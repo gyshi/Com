@@ -1,0 +1,1298 @@
+
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 622.842826 seconds
+SearchTime: 4.231065 seconds
+CheckTime: 3.244235 seconds
+计算结束
+TestDataset: 913.601865 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 628.117240 seconds
+SearchTime: 4.094998 seconds
+CheckTime: 3.212538 seconds
+计算结束
+TestDataset: 927.014903 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+计算结束
+TestDataset: 908.578499 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.206993 seconds
+ReidTime: 619.949637 seconds
+SearchTime: 4.165445 seconds
+CheckTime: 3.278635 seconds
+计算结束
+TestDataset: 906.401080 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+Finish  InputGraph
+Finish  InputAttributes
+TestDataset: 917.272329 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish  InputGraph
+Finish  InputAttributes
+TestDataset: 913.650064 seconds
+Finish  InputGraph
+Finish  InputAttributes
+looptime -929711964.000000 seconds
+StartidTime: 0.210808 seconds
+ReidTime: 637.695409 seconds
+SearchTime: 3.710099 seconds
+CheckTime: 2.856748 seconds
+TestDataset: 929.922817 seconds
+Finish  InputGraph
+Finish  InputAttributes
+Finish  InputGraph
+Finish  InputAttributes
+dur -905.715126
+looptime -905.715126 seconds
+StartidTime: 0.206710 seconds
+ReidTime: 625.908163 seconds
+SearchTime: 3.665483 seconds
+CheckTime: 2.846278 seconds
+TestDataset: 905.921864 seconds
+Finish  InputGraph
+Finish  InputAttributes
+dur 913.109126
+looptime 913.109126 seconds
+StartidTime: 0.203863 seconds
+ReidTime: 624.883324 seconds
+SearchTime: 3.670367 seconds
+CheckTime: 2.855582 seconds
+Query_Time: 913313015.000000 seconds
+TestDataset: 913.313018 seconds
+Finish  InputGraph
+Finish  InputAttributes
+dur 914.521313
+looptime 914.521313 seconds
+StartidTime: 0.204255 seconds
+ReidTime: 625.108416 seconds
+SearchTime: 3.657114 seconds
+CheckTime: 2.839505 seconds
+Query_Time: 914.725593 seconds
+TestDataset: 914.725596 seconds
+Finish  InputGraph
+Finish  InputAttributes
+dur 906.751198
+looptime 906.751198 seconds
+StartidTime: 0.203295 seconds
+ReidTime: 625.253845 seconds
+SearchTime: 3.661281 seconds
+CheckTime: 2.832698 seconds
+Query_Time: 906.954518 seconds
+ForQuit_Time: 0.000552 seconds
+TestDataset: 906.954519 seconds
+Finish  InputGraph
+Finish  InputAttributes
+dur 3601.021272
+looptime 3601.021272 seconds
+StartidTime: 0.475145 seconds
+ReidTime: 2958.050534 seconds
+SearchTime: 23.962710 seconds
+CheckTime: 19.138383 seconds
+Query_Time: 3601.496458 seconds
+ForQuit_Time: 0.014061 seconds
+TestDataset: 3601.496462 seconds
+Finish  InputGraph
+Finish  InputAttributes
+dur 908.842077
+looptime 908.842077 seconds
+StartidTime: 0.203993 seconds
+ReidTime: 625.875778 seconds
+SearchTime: 3.644565 seconds
+CheckTime: 2.825635 seconds
+Query_Time: 909.046094 seconds
+ForQuit_Time: 0.000548 seconds
+TestDataset: 909.046097 seconds
+Finish  InputGraph
+Finish  InputAttributes
+looptime 906.501673 seconds
+StartidTime: 0.204609 seconds
+ReidTime: 625.577242 seconds
+FullSearchTime: 6.489279 seconds
+SearchTime: 3.669262 seconds
+CheckTime: 2.820017 seconds
+TestDataset: 906.706300 seconds
+Finish  InputGraph
+Finish  InputAttributes
+looptime 3.235751 seconds
+StartidTime: 0.004622 seconds
+ReidTime: 2.305596 seconds
+FullSearchTime: 0.426126 seconds
+SearchTime: 0.226120 seconds
+CheckTime: 0.200006 seconds
+TestDataset: 3.240387 seconds
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 10000
+StartidTime: 0.004650 seconds
+LoopTime: 3.237615 seconds
+ReidTime: 2.278227 seconds
+FullSearchTime: 0.452170 seconds
+SearchTime: 0.241527 seconds
+CheckTime: 0.210643 seconds
+TestDataset: 3.242276 seconds
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+StartidTime: 0.207698 seconds
+LoopTime: 914.894939 seconds
+ReidTime: 627.965466 seconds
+FullSearchTime: 7.308932 seconds
+SearchTime: 4.074752 seconds
+CheckTime: 3.234180 seconds
+SpTime: 279.568032 seconds
+TestDataset: 915.102664 seconds
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+StartidTime: 0.205388 seconds
+LoopTime: 918.269965 seconds
+ReidTime: 630.187333 seconds
+FullSearchTime: 7.299549 seconds
+SearchTime: 4.081888 seconds
+CheckTime: 3.217661 seconds
+SpTime: 280.729453 seconds
+TestDataset: 918.475380 seconds
+StartidTime: 0.209012 seconds
+LoopTime: 1015.262572 seconds
+ReidTime: 629.912801 seconds
+FullSearchTime: 105.123296 seconds
+SearchTime: 58.153209 seconds
+CheckTime: 46.970087 seconds
+SpTime: 560.903652 seconds
+TestDataset: 1015.471604 seconds
+StartidTime: 0.208342 seconds
+LoopTime: 3832.159878 seconds
+ReidTime: 629.988742 seconds
+FullSearchTime: 2921.096845 seconds
+SearchTime: 1596.040886 seconds
+CheckTime: 1325.055959 seconds
+SpTime: 841.925536 seconds
+TestDataset: 3832.368243 seconds
+StartidTime: 0.213378 seconds
+LoopTime: 1082.701554 seconds
+ReidTime: 630.676884 seconds
+FullSearchTime: 171.213416 seconds
+SearchTime: 94.952729 seconds
+CheckTime: 76.260687 seconds
+SpTime: 1122.684293 seconds
+TestDataset: 1082.914954 seconds
+StartidTime: 0.208189 seconds
+LoopTime: 1019.540835 seconds
+ReidTime: 630.202988 seconds
+FullSearchTime: 108.880582 seconds
+SearchTime: 60.941747 seconds
+CheckTime: 47.938835 seconds
+SpTime: 1403.089158 seconds
+TestDataset: 1019.749046 seconds
+StartidTime: 0.208016 seconds
+LoopTime: 3832.856076 seconds
+ReidTime: 630.307131 seconds
+FullSearchTime: 2921.782001 seconds
+SearchTime: 1607.540260 seconds
+CheckTime: 1314.241741 seconds
+SpTime: 1683.802725 seconds
+TestDataset: 3833.064112 seconds
+StartidTime: 0.213659 seconds
+LoopTime: 3838.384733 seconds
+ReidTime: 632.139482 seconds
+FullSearchTime: 2924.868195 seconds
+SearchTime: 1609.468341 seconds
+CheckTime: 1315.399854 seconds
+SpTime: 1965.127095 seconds
+TestDataset: 3838.598413 seconds
+StartidTime: 0.214237 seconds
+LoopTime: 8775.561305 seconds
+ReidTime: 634.719066 seconds
+FullSearchTime: 7858.668944 seconds
+SearchTime: 4247.626760 seconds
+CheckTime: 3611.042184 seconds
+SpTime: 2247.248338 seconds
+TestDataset: 8775.775563 seconds
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.212650 seconds
+LoopTime: 909.037283 seconds
+ReidTime: 627.136463 seconds
+FullSearchTime: 7.023858 seconds
+SearchTime: 4.075610 seconds
+CheckTime: 2.948248 seconds
+SpTime: 274.826256 seconds
+计算结束
+TestDataset: 909.249977 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.233993 seconds
+LoopTime: 1000.466773 seconds
+ReidTime: 625.950255 seconds
+FullSearchTime: 100.508907 seconds
+SearchTime: 57.760732 seconds
+CheckTime: 42.748175 seconds
+SpTime: 548.782521 seconds
+计算结束
+TestDataset: 1000.700782 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 73245387
+Finish 2
+
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.207935 seconds
+LoopTime: 3723.147016 seconds
+ReidTime: 626.125826 seconds
+FullSearchTime: 2823.117874 seconds
+SearchTime: 1590.581593 seconds
+CheckTime: 1232.536281 seconds
+SpTime: 822.634745 seconds
+计算结束
+TestDataset: 3723.354968 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1053732319
+Finish 3
+
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.213154 seconds
+LoopTime: 1064.910494 seconds
+ReidTime: 626.049165 seconds
+FullSearchTime: 164.762541 seconds
+SearchTime: 94.071901 seconds
+CheckTime: 70.690640 seconds
+SpTime: 1096.681366 seconds
+计算结束
+TestDataset: 1065.123664 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 160317776
+Finish 4
+
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.207556 seconds
+LoopTime: 1004.452505 seconds
+ReidTime: 626.056704 seconds
+FullSearchTime: 104.448581 seconds
+SearchTime: 60.570511 seconds
+CheckTime: 43.878070 seconds
+SpTime: 1370.576697 seconds
+计算结束
+TestDataset: 1004.660078 seconds
+Find_Core_K: 3
+Find_Core_Vertices:401 31297 36946 111026 
+Find_Core_Size: 4
+Search call times: 80859305
+Finish 5
+
+Finish read query 6
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.207907 seconds
+LoopTime: 3725.005259 seconds
+ReidTime: 625.514708 seconds
+FullSearchTime: 2825.688498 seconds
+SearchTime: 1602.101257 seconds
+CheckTime: 1223.587241 seconds
+SpTime: 1644.326707 seconds
+计算结束
+TestDataset: 3725.213185 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079014339
+Finish 6
+
+Finish read query 7
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.213412 seconds
+LoopTime: 3724.855725 seconds
+ReidTime: 626.913240 seconds
+FullSearchTime: 2823.155338 seconds
+SearchTime: 1603.049963 seconds
+CheckTime: 1220.105375 seconds
+SpTime: 1919.062286 seconds
+计算结束
+TestDataset: 3725.069154 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079010030
+Finish 7
+
+Finish read query 8
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+StartidTime: 0.214858 seconds
+LoopTime: 8328.513270 seconds
+ReidTime: 626.616117 seconds
+FullSearchTime: 7426.998615 seconds
+SearchTime: 4175.149470 seconds
+CheckTime: 3251.849145 seconds
+SpTime: 2193.909069 seconds
+计算结束
+TestDataset: 8328.728145 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1637947156
+Finish 8
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 504.689806 seconds
+ReidTime: 497.581029 seconds
+FullSearchTime: 7.056244 seconds
+SearchTime: 4.063381 seconds
+CheckTime: 2.992863 seconds
+SpTime: 0.007522 seconds
+计算结束
+TestDataset: 504.977731 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 597.576231 seconds
+ReidTime: 497.643336 seconds
+FullSearchTime: 99.890252 seconds
+SearchTime: 57.876944 seconds
+CheckTime: 42.013308 seconds
+SpTime: 0.007758 seconds
+计算结束
+TestDataset: 597.818348 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 73245387
+Finish 2
+
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 3330.523227 seconds
+ReidTime: 497.747981 seconds
+FullSearchTime: 2832.733469 seconds
+SearchTime: 1594.278067 seconds
+CheckTime: 1238.455402 seconds
+SpTime: 0.007631 seconds
+计算结束
+TestDataset: 3330.767228 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1053732319
+Finish 3
+
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 663.211512 seconds
+ReidTime: 497.612058 seconds
+FullSearchTime: 165.557843 seconds
+SearchTime: 95.035574 seconds
+CheckTime: 70.522269 seconds
+SpTime: 0.007443 seconds
+计算结束
+TestDataset: 663.456008 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 160317776
+Finish 4
+
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 602.114352 seconds
+ReidTime: 498.119226 seconds
+FullSearchTime: 103.952419 seconds
+SearchTime: 60.758656 seconds
+CheckTime: 43.193763 seconds
+SpTime: 0.007830 seconds
+计算结束
+TestDataset: 602.357768 seconds
+Find_Core_K: 3
+Find_Core_Vertices:401 31297 36946 111026 
+Find_Core_Size: 4
+Search call times: 80859305
+Finish 5
+
+Finish read query 6
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 3335.914438 seconds
+ReidTime: 496.806970 seconds
+FullSearchTime: 2839.065903 seconds
+SearchTime: 1606.143683 seconds
+CheckTime: 1232.922220 seconds
+SpTime: 0.007436 seconds
+计算结束
+TestDataset: 3336.156306 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079014339
+Finish 6
+
+Finish read query 7
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 3326.278886 seconds
+ReidTime: 497.468032 seconds
+FullSearchTime: 2828.767936 seconds
+SearchTime: 1606.075629 seconds
+CheckTime: 1222.692307 seconds
+SpTime: 0.007690 seconds
+计算结束
+TestDataset: 3326.521119 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079010030
+Finish 7
+
+Finish read query 8
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+LoopTime: 7982.464293 seconds
+ReidTime: 497.672940 seconds
+FullSearchTime: 7484.748100 seconds
+SearchTime: 4211.555070 seconds
+CheckTime: 3273.193030 seconds
+SpTime: 0.007160 seconds
+计算结束
+TestDataset: 7982.708671 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1637947156
+Finish 8
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 495.952541 seconds
+FullSearchTime: 7.047072 seconds
+SearchTime: 4.085701 seconds
+CheckTime: 2.961371 seconds
+CheckBigraphTime: 0.000010 seconds
+OtherChecksTime: 2.961361 seconds
+计算结束
+TestDataset: 503.329464 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 496.740560 seconds
+FullSearchTime: 100.824507 seconds
+SearchTime: 58.154646 seconds
+CheckTime: 42.669861 seconds
+CheckBigraphTime: 0.000030 seconds
+OtherChecksTime: 42.669831 seconds
+计算结束
+TestDataset: 597.842060 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 73245387
+Finish 2
+
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 496.354936 seconds
+FullSearchTime: 2850.358132 seconds
+SearchTime: 1593.835617 seconds
+CheckTime: 1256.522515 seconds
+CheckBigraphTime: 0.000031 seconds
+OtherChecksTime: 1256.522484 seconds
+计算结束
+TestDataset: 3346.992880 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1053732319
+Finish 3
+
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 496.560691 seconds
+FullSearchTime: 167.138136 seconds
+SearchTime: 95.951187 seconds
+CheckTime: 71.186949 seconds
+CheckBigraphTime: 0.000027 seconds
+OtherChecksTime: 71.186922 seconds
+计算结束
+TestDataset: 663.975704 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 160317776
+Finish 4
+
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 496.548543 seconds
+FullSearchTime: 104.989664 seconds
+SearchTime: 61.052197 seconds
+CheckTime: 43.937467 seconds
+CheckBigraphTime: 0.000027 seconds
+OtherChecksTime: 43.937440 seconds
+计算结束
+TestDataset: 601.815916 seconds
+Find_Core_K: 3
+Find_Core_Vertices:401 31297 36946 111026 
+Find_Core_Size: 4
+Search call times: 80859305
+Finish 5
+
+Finish read query 6
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 497.564084 seconds
+FullSearchTime: 2871.722425 seconds
+SearchTime: 1605.954491 seconds
+CheckTime: 1265.767934 seconds
+CheckBigraphTime: 0.000019 seconds
+OtherChecksTime: 1265.767915 seconds
+计算结束
+TestDataset: 3369.563021 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079014339
+Finish 6
+
+Finish read query 7
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 496.586335 seconds
+FullSearchTime: 2864.818098 seconds
+SearchTime: 1607.260507 seconds
+CheckTime: 1257.557591 seconds
+CheckBigraphTime: 0.000027 seconds
+OtherChecksTime: 1257.557564 seconds
+计算结束
+TestDataset: 3361.682213 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079010030
+Finish 7
+
+Finish read query 8
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 497.412409 seconds
+FullSearchTime: 7568.979289 seconds
+SearchTime: 4262.623445 seconds
+CheckTime: 3306.355844 seconds
+CheckBigraphTime: 0.000034 seconds
+OtherChecksTime: 3306.355810 seconds
+计算结束
+TestDataset: 8066.673017 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1637947156
+Finish 8
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 545.187343 seconds
+FullSearchTime: 4.332169 seconds
+SearchTime: 2.510293 seconds
+CheckTime: 1.821876 seconds
+计算结束
+TestDataset: 550.007014 seconds
+Find_Core_K: 2
+Find_Core_Vertices:162032 170929 184509 
+Find_Core_Size: 3
+Search call times: 5143347
+Finish 1
+
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 546.291292 seconds
+FullSearchTime: 71.147350 seconds
+SearchTime: 41.030552 seconds
+CheckTime: 30.116798 seconds
+计算结束
+TestDataset: 617.852857 seconds
+Find_Core_K: 3
+Find_Core_Vertices:162032 170929 181757 184509 
+Find_Core_Size: 4
+Search call times: 49060275
+Finish 2
+2020.6.17 modeify algprithm.cpp
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 545.343602 seconds
+FullSearchTime: 4.447389 seconds
+SearchTime: 2.651842 seconds
+CheckTime: 1.795547 seconds
+计算结束
+TestDataset: 550.281241 seconds
+Find_Core_K: 2
+Find_Core_Vertices:162032 170929 184509 
+Find_Core_Size: 3
+Search call times: 5143347
+Finish 1
+2020.6.17 modeify algprithm.cpp
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 551.498758 seconds
+FullSearchTime: 6.792834 seconds
+SearchTime: 3.973713 seconds
+CheckTime: 2.819121 seconds
+计算结束
+TestDataset: 558.627796 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 9059390
+Finish 1
+
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 551.418265 seconds
+FullSearchTime: 89.569054 seconds
+SearchTime: 53.588792 seconds
+CheckTime: 35.980262 seconds
+计算结束
+TestDataset: 641.268129 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 73245387
+Finish 2
+
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 552.196104 seconds
+FullSearchTime: 2353.998363 seconds
+SearchTime: 1408.503847 seconds
+CheckTime: 945.494516 seconds
+计算结束
+TestDataset: 2906.476039 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1053732319
+Finish 3
+
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 551.110387 seconds
+FullSearchTime: 153.504647 seconds
+SearchTime: 89.878131 seconds
+CheckTime: 63.626516 seconds
+计算结束
+TestDataset: 704.895417 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 160317776
+Finish 4
+
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 552.519805 seconds
+FullSearchTime: 93.535241 seconds
+SearchTime: 56.332220 seconds
+CheckTime: 37.203021 seconds
+计算结束
+TestDataset: 646.335191 seconds
+Find_Core_K: 3
+Find_Core_Vertices:401 31297 36946 111026 
+Find_Core_Size: 4
+Search call times: 80859305
+Finish 5
+
+Finish read query 6
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 551.044789 seconds
+FullSearchTime: 2372.865397 seconds
+SearchTime: 1424.797877 seconds
+CheckTime: 948.067520 seconds
+计算结束
+TestDataset: 2924.194202 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079014339
+Finish 6
+
+Finish read query 7
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 550.635056 seconds
+FullSearchTime: 2374.339015 seconds
+SearchTime: 1424.875431 seconds
+CheckTime: 949.463584 seconds
+计算结束
+TestDataset: 2925.258714 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 1079010030
+Finish 7
+
+Finish read query 8
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 550.909583 seconds
+FullSearchTime: 6849.933825 seconds
+SearchTime: 3913.532219 seconds
+CheckTime: 2936.401606 seconds
+计算结束
+TestDataset: 7401.126426 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 1637947156
+Finish 8
+2020.6.17 modeify algprithm.cpp
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 543.782552 seconds
+FullSearchTime: 4.439618 seconds
+SearchTime: 2.640805 seconds
+CheckTime: 1.798813 seconds
+计算结束
+TestDataset: 548.706897 seconds
+Find_Core_K: 2
+Find_Core_Vertices:162032 170929 184509 
+Find_Core_Size: 3
+Search call times: 5143347
+Finish 1
+
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 544.183406 seconds
+FullSearchTime: 73.136930 seconds
+SearchTime: 43.889938 seconds
+CheckTime: 29.246992 seconds
+计算结束
+TestDataset: 617.738278 seconds
+Find_Core_K: 3
+Find_Core_Vertices:162032 170929 181757 184509 
+Find_Core_Size: 4
+Search call times: 49060275
+Finish 2
+
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 544.098092 seconds
+FullSearchTime: 2327.407393 seconds
+SearchTime: 1387.317528 seconds
+CheckTime: 940.089865 seconds
+计算结束
+TestDataset: 2871.911434 seconds
+Find_Core_K: 4
+Find_Core_Vertices:162032 170929 181757 184509 217718 
+Find_Core_Size: 5
+Search call times: 1022466670
+Finish 3
+
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 544.485551 seconds
+FullSearchTime: 72.845028 seconds
+SearchTime: 43.954992 seconds
+CheckTime: 28.890036 seconds
+计算结束
+TestDataset: 617.722458 seconds
+Find_Core_K: 3
+Find_Core_Vertices:162032 170929 184509 223058 
+Find_Core_Size: 4
+Search call times: 49291319
+Finish 4
+
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+开始计算
+ReidTime: 543.798230 seconds
+FullSearchTime: 73.783208 seconds
+SearchTime: 43.960284 seconds
+CheckTime: 29.822924 seconds
+计算结束
+TestDataset: 617.985158 seconds
+Find_Core_K: 3
+Find_Core_Vertices:162032 170929 181757 184509 
+Find_Core_Size: 4
+Search call times: 49060950
+Finish 5
