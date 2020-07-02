@@ -1,3 +1,3 @@
-/home/gyshi/wl/Community/CMakeFiles/edit_cache.dir
-/home/gyshi/wl/Community/CMakeFiles/rebuild_cache.dir
-/home/gyshi/wl/Community/CMakeFiles/Community.dir
+/home/gyshi/Com/CMakeFiles/edit_cache.dir
+/home/gyshi/Com/CMakeFiles/rebuild_cache.dir
+/home/gyshi/Com/CMakeFiles/Community.dir

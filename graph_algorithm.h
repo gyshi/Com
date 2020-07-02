@@ -33,6 +33,7 @@ class Query {
  private:
   Graph ReidGraph(const Graph &graph, vector<int> & id , int st);
 //  Graph NewGraph(const Graph &graph);
+  bool ConditionAttr(Graph &graph);
   Graph OptGraph(const Graph &graph, vector<int> & id, int st);
   bool Check(const Graph &graph);
   bool FindMatch(BiGraph &bigraph);

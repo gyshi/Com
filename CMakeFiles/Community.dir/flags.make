@@ -6,5 +6,5 @@ CXX_FLAGS =  -O2 -fopenmp   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/gyshi/wl/Community/. 
+CXX_INCLUDES = -I/home/gyshi/Com/. 
 

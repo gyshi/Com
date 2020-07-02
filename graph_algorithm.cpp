@@ -66,9 +66,14 @@ bool Query::Check(const Graph &graph) {
 
   if (this->FindMatch(bigraph)) {
     find_core_k_ = search_core_k;
-
+  
     this->find_core_.clear();
-    for (auto x :  this->search_core_) this->find_core_.push_back(this->id_[x]);
+    printf("\n, %s, %d, \n", "-----------find core k :",find_core_k_);
+    for (auto x :  this->search_core_) {
+     printf("%s, %d"," ", this->id_[x] + 1);
+     this->find_core_.push_back(this->id_[x]);
+}
+    printf("\n,%s, \n", "________find k  core end");
     return true;
   } else {
     return false;
@@ -225,10 +230,8 @@ void Query::Output() {
   }
     printf("\n");
     printf("%s %d\n","Find_Core_Size:",size);
-#ifdef Test
     printf("%s %d\n", "Search call times:", this->cost_);
-#endif
-
+   
 }
 
 Graph  Query:: ReidGraph(const Graph &graph, vector<int> & id , int st) {
@@ -243,13 +246,15 @@ Graph  Query:: ReidGraph(const Graph &graph, vector<int> & id , int st) {
   //start1 = clock();
   double start1, finish1;
   start1 = omp_get_wtime();
-
+  int max_size = 0;
   while (!q.empty()) {
     int x = q.front();
     q.pop();
+    if (max_size > this->theory_size_max) break;
+    max_size += 1;
     for (auto y : graph.edge_[x]) {
       if (vis[y]) continue;
-      if (y < st) continue;
+   //   if (y < st) continue;
       vis[y] = 1;
       q.push(y);
       id[y] = ++id_now;
@@ -263,7 +268,7 @@ Graph  Query:: ReidGraph(const Graph &graph, vector<int> & id , int st) {
   //start1 = clock();
     // cerr<<"Begin reid_graph"<<endl;
  // assert(id_now + st == graph.n_ - 1); //从st出发走不到所有点的，在<st点删除情况下
- Graph reid_graph(graph.n_);
+ Graph reid_graph(id_now + 1);
   // cerr<<"end reid_graph"<<endl;
   reid_graph.max_attribute_ = graph.max_attribute_;
   for (int i = 0; i < graph.n_; ++i) {
@@ -524,7 +529,36 @@ Graph Query::NewGraph(const Graph &graph){
 
 }
 
+bool Query::ConditionAttr(Graph &graph) {
+  map<int,int> Cond_Attr;
+  int sum_attr = 0;
+  int app_numb = 0;  
+  for (auto query :this->queries) {
+    Cond_Attr[std::get<0>(query)] = std::get<1>(query);
+  }
+  for (int i = 0; i < graph.n_; ++i) {
+    for (auto y : graph.vertex_[i].attribute_) 
+       for (auto query : Cond_Attr) {
+         int count = 0;
+          if (query.first == y) {
+             sum_attr++;
+            if (count >= 1 ) {
+              app_numb++;
+            } else {
+              count++;
+            query.second--;
+            }
+          }
+       }
+  }
+  if (sum_attr - app_numb < this->theory_size_min ) return false;
+  for (auto x : Cond_Attr) {
+    if (x.second > 0) return false;
+   
+  }
+   return true;
 
+}
 
 void Query::Start(const Graph &graph) {
 
@@ -550,6 +584,7 @@ void Query::Start(const Graph &graph) {
 	vector<int> id(graph.n_, -1);
       // cerr<<"Start"<<endl;
       Graph reid_graph = this->ReidGraph(graph, id, stID[i]);
+       if (ConditionAttr(reid_graph)) continue;
       // cerr<<"End ReId";
      this->id_.resize(graph.n_);
    //  #pragma omp critical 
@@ -574,7 +609,7 @@ void Query::Start(const Graph &graph) {
       // cerr<<"end search" <<endl;
       this->search_core_.pop_back();
       this->choose_[0] = 0;
-    }
+     }
      finish2 = omp_get_wtime();//初始化结束时间
 	double duration2 = finish2 - start2;
       this->search_time += duration2;
@@ -585,7 +620,6 @@ void Query::Start(const Graph &graph) {
     printf("%s %lf %s\n","ReidTime:", this->reid_time,"seconds");
     printf("%s %lf %s\n","SearchTime:", this->search_time,"seconds");
     printf("%s %lf %s\n","CheckTime:", this->check_time,"seconds");
-
 //}
 }
 
