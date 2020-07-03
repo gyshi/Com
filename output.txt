@@ -1,37 +1,37 @@
 Finish  InputGraph
 Finish  InputAttributes
-Graph size: 230341
+Graph size: 1000
 query size 1
 
 **************************************************************
 Finish read query 1
-Vertices number of containing query attribute: 19360
+Vertices number of containing query attribute: 110
 Vertices number of containing n attribute:
-0 : 210981
-1 : 17653
-2 : 1707
+0 : 890
+1 : 88
+2 : 22
 Vertices number of concrete query attributes:
-{7}: 11667
-{7,8}: 1707
-{8}: 5986
+{7}: 68
+{7,8}: 22
+{8}: 20
 Attributes  number :
-{7,}: 13374
-{8,}: 7693
+{7,}: 90
+{8,}: 42
 Sort Vertices number of concrete query attributes:
-{7}: 11667
-{8}: 5986
-{7,8}: 1707
+{7}: 68
+{7,8}: 22
+{8}: 20
 
 , -----------find core k :, 1, 
- , 195 , 74196
+ , 41 , 436
 ,________find k  core end, 
-ReidTime: 22.669772 seconds
-SearchTime: 0.163911 seconds
-CheckTime: 0.049807 seconds
+ReidTime: 0.004136 seconds
+SearchTime: 0.000484 seconds
+CheckTime: 0.000174 seconds
 计算结束
-TestDataset: 23.105690 seconds
+TestDataset: 0.005910 seconds
 Find_Core_K: 1
-Find_Core_Vertices:195 74196 
+Find_Core_Vertices:41 436 
 Find_Core_Size: 2
-Search call times: 674550
+Search call times: 1555
 Finish 1
