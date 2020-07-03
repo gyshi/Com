@@ -242,20 +242,20 @@ int main(int argc, char *argv[]) {
         cerr << i <<endl;
        // printf("开始计算\n");
        //  start = clock();//初始化开始时间
-
+         map<int, int> new_old; 
 	 double start,finish;
          start = omp_get_wtime();
-         query.Start(graph);
+//         query.Start(graph);
          
-//        Graph new_gra =  query.NewGraph(graph); 
- //       query.Start(new_gra);
+        Graph new_gra =  query.NewGraph(graph, new_old); 
+        query.Start(new_gra);
          finish = omp_get_wtime();
        // finish = clock();//初始化结束时间
         printf("计算结束\n");
         // double duration = (double)(finish - start) / CLOCKS_PER_SEC;//转换浮点型
         double duration = finish -start;
         printf("%s %lf %s\n", "TestDataset:", duration, "seconds");
-        query.Output();
+        query.Output(new_old);
         printf("%s %d\n","Finish",i+1);
         cerr << i <<endl;
         fclose(stdout);

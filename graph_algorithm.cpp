@@ -218,13 +218,13 @@ void Query::Search(const Graph &graph, int x) {
 
 }
 
-void Query::Output() {
+void Query::Output(map<int, int>& new_old) {
 
     printf("%s %d\n", "Find_Core_K:", this->find_core_k_);
   printf("Find_Core_Vertices:");
   int size = 0;
   for (auto x : this->find_core_) {
-        printf("%d",x+1);
+        printf("%d",new_old[x]+1);
         printf(" ");
       size += 1;
   }
@@ -475,7 +475,7 @@ vector<int> Query::StartID(Graph graph){
 }
 
 
-Graph Query::NewGraph(const Graph &graph){
+Graph Query::NewGraph(const Graph &graph, map<int, int >& old_map_new){
 
     vector <int> stID;
     map<int, int>new_map_old;  // old -> new
@@ -489,6 +489,7 @@ Graph Query::NewGraph(const Graph &graph){
                 if(attribute == std::get<0>(query)) {
                     stID.push_back(i);
                     new_map_old[i] = new_id;
+                    old_map_new[new_id] = i;
                     ++new_id;
                     flag = 1;
                     break;

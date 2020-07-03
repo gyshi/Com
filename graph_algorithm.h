@@ -26,10 +26,10 @@ class Query {
   map<int,int> querymap;
   Query(int n, vector<int> line);
   Query(string input_str);
-  void Output();
+  void Output(map<int, int>&old_new);
   void Start(const Graph &graph);
   void CountAttributes(const Graph &graph);
-  Graph NewGraph(const Graph &graph);
+  Graph NewGraph(const Graph &graph, map<int, int >& old_map_new);
  private:
   Graph ReidGraph(const Graph &graph, vector<int> & id , int st);
 //  Graph NewGraph(const Graph &graph);
