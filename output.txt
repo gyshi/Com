@@ -1,7 +1,470 @@
 Finish  InputGraph
 Finish  InputAttributes
-Graph size: 1000
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 18.509711 seconds
+SearchTime: 7.394480 seconds
+CheckTime: 2.492745 seconds
+计算结束
+TestDataset: 26.172408 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 12554336
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 18.875365 seconds
+SearchTime: 213.687017 seconds
+CheckTime: 72.870029 seconds
+计算结束
+TestDataset: 232.861571 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 168243712
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
 query size 1
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.859240 seconds
+SearchTime: 0.001347 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.073931 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 1
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.773057 seconds
+SearchTime: 0.001279 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 18.975276 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.462118 seconds
+SearchTime: 0.001187 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 18.670005 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.843756 seconds
+SearchTime: 0.001243 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.086209 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.844682 seconds
+SearchTime: 0.001240 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.054046 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 3
+
+**************************************************************
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.850362 seconds
+SearchTime: 0.001241 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.059808 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 4
+
+**************************************************************
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.845137 seconds
+SearchTime: 0.001250 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.054419 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 5
+
+**************************************************************
+Finish read query 6
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.841322 seconds
+SearchTime: 0.001244 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.050793 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 6
+
+**************************************************************
+Finish read query 7
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.848029 seconds
+SearchTime: 0.001246 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.057595 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 7
+
+**************************************************************
+Finish read query 8
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.860776 seconds
+SearchTime: 0.001247 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 19.070328 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 8
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+ReidTime: 18.484135 seconds
+SearchTime: 0.001217 seconds
+CheckTime: 0.000000 seconds
+计算结束
+TestDataset: 18.690934 seconds
+Find_Core_K: -1
+Find_Core_Vertices:
+Find_Core_Size: 0
+Search call times: 19360
+Finish 1
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 1000
+query size 8
 
 **************************************************************
 Finish read query 1
@@ -23,15 +486,1659 @@ Sort Vertices number of concrete query attributes:
 {8}: 20
 
 , -----------find core k :, 1, 
+ , 36 , 5 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
  , 41 , 436
 ,________find k  core end, 
-ReidTime: 0.004136 seconds
-SearchTime: 0.000484 seconds
-CheckTime: 0.000174 seconds
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 756
+,________find k  core end, 
+ReidTime: 0.004018 seconds
+SearchTime: 0.002579 seconds
+CheckTime: 0.001052 seconds
 计算结束
-TestDataset: 0.005910 seconds
-Find_Core_K: 1
-Find_Core_Vertices:41 436 
-Find_Core_Size: 2
-Search call times: 1555
+TestDataset: 0.007962 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 756 
+Find_Core_Size: 3
+Search call times: 8079
 Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 365 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 99 , 9 , 922 , 114
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 756
+,________find k  core end, 
+ReidTime: 0.002544 seconds
+SearchTime: 0.009976 seconds
+CheckTime: 0.003931 seconds
+计算结束
+TestDataset: 0.013609 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 756 
+Find_Core_Size: 3
+Search call times: 46527
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 365 , 366 , 41
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 36 , 5 , 365 , 4 , 238
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 73 , 533 , 541 , 944
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 756
+,________find k  core end, 
+ReidTime: 0.002831 seconds
+SearchTime: 0.018466 seconds
+CheckTime: 0.007114 seconds
+计算结束
+TestDataset: 0.022041 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 756 
+Find_Core_Size: 3
+Search call times: 74658
+Finish 3
+
+**************************************************************
+Finish read query 4
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 365 , 238 , 935
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 434 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 739 , 757
+,________find k  core end, 
+ReidTime: 0.002484 seconds
+SearchTime: 0.025444 seconds
+CheckTime: 0.010211 seconds
+计算结束
+TestDataset: 0.028634 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 739 757 
+Find_Core_Size: 3
+Search call times: 123907
+Finish 4
+
+**************************************************************
+Finish read query 5
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 41 , 45
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 436 , 441
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 739 , 757
+,________find k  core end, 
+ReidTime: 0.002445 seconds
+SearchTime: 0.025746 seconds
+CheckTime: 0.010262 seconds
+计算结束
+TestDataset: 0.028897 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 739 757 
+Find_Core_Size: 3
+Search call times: 124140
+Finish 5
+
+**************************************************************
+Finish read query 6
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 434 , 436 , 441
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 434 , 436 , 441
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 739 , 756 , 757
+,________find k  core end, 
+ReidTime: 0.002213 seconds
+SearchTime: 0.231193 seconds
+CheckTime: 0.091395 seconds
+计算结束
+TestDataset: 0.234067 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 739 756 757 
+Find_Core_Size: 5
+Search call times: 1214779
+Finish 6
+
+**************************************************************
+Finish read query 7
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 434 , 435 , 436
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 434 , 435 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 739 , 756 , 757
+,________find k  core end, 
+ReidTime: 0.002159 seconds
+SearchTime: 0.235089 seconds
+CheckTime: 0.091055 seconds
+计算结束
+TestDataset: 0.237828 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 739 756 757 
+Find_Core_Size: 5
+Search call times: 1214563
+Finish 7
+
+**************************************************************
+Finish read query 8
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 436 , 441 , 36
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 739 , 756 , 757
+,________find k  core end, 
+ReidTime: 0.002166 seconds
+SearchTime: 0.401182 seconds
+CheckTime: 0.184433 seconds
+计算结束
+TestDataset: 0.403927 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 739 756 757 
+Find_Core_Size: 5
+Search call times: 1635712
+Finish 8
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 1000
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 756
+,________find k  core end, 
+ReidTime: 0.004016 seconds
+SearchTime: 0.001807 seconds
+CheckTime: 0.000733 seconds
+计算结束
+TestDataset: 0.007095 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 756 
+Find_Core_Size: 3
+Search call times: 5848
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 365 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 99 , 9 , 922 , 114
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 756
+,________find k  core end, 
+ReidTime: 0.002527 seconds
+SearchTime: 0.004874 seconds
+CheckTime: 0.001952 seconds
+计算结束
+TestDataset: 0.008469 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 756 
+Find_Core_Size: 3
+Search call times: 26244
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 365 , 366 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 365 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 41
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 73 , 9 , 532 , 77 , 599
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 73 , 533 , 541 , 944
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 756
+,________find k  core end, 
+ReidTime: 0.002841 seconds
+SearchTime: 0.008318 seconds
+CheckTime: 0.003251 seconds
+计算结束
+TestDataset: 0.011862 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 756 
+Find_Core_Size: 3
+Search call times: 43016
+Finish 3
+
+**************************************************************
+Finish read query 4
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 434 , 436
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 434 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 739 , 757
+,________find k  core end, 
+ReidTime: 0.002466 seconds
+SearchTime: 0.014224 seconds
+CheckTime: 0.005709 seconds
+计算结束
+TestDataset: 0.017383 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 739 757 
+Find_Core_Size: 3
+Search call times: 74738
+Finish 4
+
+**************************************************************
+Finish read query 5
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 36 , 5 , 41 , 45
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 436 , 441
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 739 , 757
+,________find k  core end, 
+ReidTime: 0.002467 seconds
+SearchTime: 0.014248 seconds
+CheckTime: 0.005713 seconds
+计算结束
+TestDataset: 0.017374 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 739 757 
+Find_Core_Size: 3
+Search call times: 74957
+Finish 5
+
+**************************************************************
+Finish read query 6
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 434 , 436 , 441
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 434 , 436 , 441
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 739 , 756 , 757
+,________find k  core end, 
+ReidTime: 0.002283 seconds
+SearchTime: 0.115055 seconds
+CheckTime: 0.045907 seconds
+计算结束
+TestDataset: 0.117969 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 739 756 757 
+Find_Core_Size: 5
+Search call times: 571063
+Finish 6
+
+**************************************************************
+Finish read query 7
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 434 , 435 , 436
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 41 , 434 , 435 , 436
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 739 , 756 , 757
+,________find k  core end, 
+ReidTime: 0.002182 seconds
+SearchTime: 0.089293 seconds
+CheckTime: 0.035807 seconds
+计算结束
+TestDataset: 0.092054 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 739 756 757 
+Find_Core_Size: 5
+Search call times: 570847
+Finish 7
+
+**************************************************************
+Finish read query 8
+Vertices number of containing query attribute: 110
+Vertices number of containing n attribute:
+0 : 890
+1 : 88
+2 : 22
+Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+Attributes  number :
+{7,}: 90
+{8,}: 42
+Sort Vertices number of concrete query attributes:
+{7}: 68
+{7,8}: 22
+{8}: 20
+
+, -----------find core k :, 1, 
+ , 41 , 5 , 436 , 441 , 45
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 104 , 731 , 739 , 756 , 757
+,________find k  core end, 
+ReidTime: 0.002184 seconds
+SearchTime: 0.144318 seconds
+CheckTime: 0.069642 seconds
+计算结束
+TestDataset: 0.147075 seconds
+Find_Core_K: 2
+Find_Core_Vertices:104 731 739 756 757 
+Find_Core_Size: 5
+Search call times: 747524
+Finish 8
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 14.798777 seconds
+SearchTime: 7.338999 seconds
+CheckTime: 2.493202 seconds
+计算结束
+TestDataset: 22.412700 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 12544114
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 14.921898 seconds
+SearchTime: 7.350617 seconds
+CheckTime: 2.516289 seconds
+计算结束
+TestDataset: 22.543388 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 12544114
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 15.821297 seconds
+SearchTime: 212.783111 seconds
+CheckTime: 72.937979 seconds
+计算结束
+TestDataset: 228.933022 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 168198946
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 11.676230 seconds
+SearchTime: 5.180224 seconds
+CheckTime: 1.753885 seconds
+计算结束
+TestDataset: 17.163938 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 8979710
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 12.416891 seconds
+SearchTime: 151.500024 seconds
+CheckTime: 51.997177 seconds
+计算结束
+TestDataset: 164.236809 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 120202412
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 1
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 11.678361 seconds
+SearchTime: 5.186669 seconds
+CheckTime: 1.747520 seconds
+计算结束
+TestDataset: 17.168368 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 8979710
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 12.197835 seconds
+SearchTime: 150.499905 seconds
+CheckTime: 51.555949 seconds
+计算结束
+TestDataset: 163.015338 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 120202412
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 11.879566 seconds
+SearchTime: 1.612987 seconds
+CheckTime: 0.551244 seconds
+计算结束
+TestDataset: 13.775414 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 3605175
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 12.099973 seconds
+SearchTime: 37.533371 seconds
+CheckTime: 12.960328 seconds
+计算结束
+TestDataset: 49.929883 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 37766593
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 118701 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 4 , 118686 , 210495 , 94782 , 101625
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 4, 
+ , 282 , 100129 , 196034 , 201214 , 204254
+,________find k  core end, 
+ReidTime: 12.906671 seconds
+SearchTime: 6371.006642 seconds
+CheckTime: 2172.585713 seconds
+计算结束
+TestDataset: 6384.245043 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: -635443557
+Finish 3
+Finish  InputGraph
+Finish  InputAttributes
+Graph size: 230341
+query size 8
+
+**************************************************************
+Finish read query 1
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 38 , 219299 , 154622
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+ReidTime: 11.947513 seconds
+SearchTime: 1.614337 seconds
+CheckTime: 0.550922 seconds
+计算结束
+TestDataset: 13.848187 seconds
+Find_Core_K: 2
+Find_Core_Vertices:195 72177 74196 
+Find_Core_Size: 3
+Search call times: 3605175
+Finish 1
+
+**************************************************************
+Finish read query 2
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 12.152838 seconds
+SearchTime: 37.872702 seconds
+CheckTime: 12.938945 seconds
+计算结束
+TestDataset: 50.322870 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 37766593
+Finish 2
+
+**************************************************************
+Finish read query 3
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 118701 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 4 , 118686 , 210495 , 94782 , 101625
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 4, 
+ , 282 , 100129 , 196034 , 201214 , 204254
+,________find k  core end, 
+ReidTime: 12.503551 seconds
+SearchTime: 1326.298002 seconds
+CheckTime: 454.944895 seconds
+计算结束
+TestDataset: 1339.106506 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 930864823
+Finish 3
+
+**************************************************************
+Finish read query 4
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 401 , 31297 , 36946 , 111026
+,________find k  core end, 
+ReidTime: 12.335579 seconds
+SearchTime: 38.601181 seconds
+CheckTime: 13.085157 seconds
+计算结束
+TestDataset: 51.232826 seconds
+Find_Core_K: 3
+Find_Core_Vertices:401 31297 36946 111026 
+Find_Core_Size: 4
+Search call times: 37771182
+Finish 4
+
+**************************************************************
+Finish read query 5
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782 , 156002
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 137 , 32763 , 36946
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 282 , 88224 , 100129 , 206310
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 282 , 88224 , 206310
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 282 , 100129 , 196034 , 204254
+,________find k  core end, 
+ReidTime: 12.144188 seconds
+SearchTime: 37.380515 seconds
+CheckTime: 12.692050 seconds
+计算结束
+TestDataset: 49.819186 seconds
+Find_Core_K: 3
+Find_Core_Vertices:282 100129 196034 204254 
+Find_Core_Size: 4
+Search call times: 37808242
+Finish 5
+
+**************************************************************
+Finish read query 6
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 2, 
+ , 4 , 118686 , 210495 , 94782 , 156002
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 282 , 88224 , 204254 , 206310
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 401 , 31297 , 36946 , 111026
+,________find k  core end, 
+
+, -----------find core k :, 4, 
+ , 401 , 31297 , 36946 , 111026 , 144832
+,________find k  core end, 
+ReidTime: 12.515293 seconds
+SearchTime: 1318.588118 seconds
+CheckTime: 447.170306 seconds
+计算结束
+TestDataset: 1331.408321 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 930931409
+Finish 6
+
+**************************************************************
+Finish read query 7
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 118701 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 4 , 118686 , 210495 , 94782
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 4 , 118686 , 210495 , 94782 , 101625
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 121 , 9398 , 48602 , 1390
+,________find k  core end, 
+
+, -----------find core k :, 3, 
+ , 401 , 31297 , 36946 , 111026
+,________find k  core end, 
+
+, -----------find core k :, 4, 
+ , 401 , 31297 , 36946 , 111026 , 144832
+,________find k  core end, 
+ReidTime: 12.497477 seconds
+SearchTime: 1320.214838 seconds
+CheckTime: 447.735080 seconds
+计算结束
+TestDataset: 1333.018131 seconds
+Find_Core_K: 4
+Find_Core_Vertices:401 31297 36946 111026 144832 
+Find_Core_Size: 5
+Search call times: 930928153
+Finish 7
+
+**************************************************************
+Finish read query 8
+Vertices number of containing query attribute: 19360
+Vertices number of containing n attribute:
+0 : 210981
+1 : 17653
+2 : 1707
+Vertices number of concrete query attributes:
+{7}: 11667
+{7,8}: 1707
+{8}: 5986
+Attributes  number :
+{7,}: 13374
+{8,}: 7693
+Sort Vertices number of concrete query attributes:
+{7}: 11667
+{8}: 5986
+{7,8}: 1707
+
+, -----------find core k :, 1, 
+ , 4 , 210495 , 94782 , 156002 , 196121
+,________find k  core end, 
+
+, -----------find core k :, 1, 
+ , 137 , 32763 , 9230 , 36946
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 195 , 72177 , 74196 , 16379 , 48028
+,________find k  core end, 
+
+, -----------find core k :, 2, 
+ , 282 , 88224 , 100129 , 206310
+,________find k  core end, 
+
+, -----------find core k :, 4, 
+ , 282 , 100129 , 196034 , 201214 , 204254
+,________find k  core end, 
+ReidTime: 12.495704 seconds
+SearchTime: 1319.223519 seconds
+CheckTime: 447.243219 seconds
+计算结束
+TestDataset: 1332.023819 seconds
+Find_Core_K: 4
+Find_Core_Vertices:282 100129 196034 201214 204254 
+Find_Core_Size: 5
+Search call times: 932342873
+Finish 8
+
+============================================================================================================

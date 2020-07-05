@@ -21,6 +21,7 @@ class Query {
   vector<int> search_core_, find_core_;
   vector<int> choose_;
   vector<int> id_;
+  map<int, int> has_query;
   map<int, int> select_attr;
   vector<tuple<int, int>> queries;
   map<int,int> querymap;

@@ -13,7 +13,7 @@ bool Query::FindMatch(BiGraph &bigraph) {
 }
 bool Query::Check(const Graph &graph) {
 
-  if ((int)this->search_core_.size() < this->query_sum_) return false;
+  if (this->search_core_.size() < this->query_sum_) return false;
 
   int search_core_k = 1e9;
   for (auto x : this->search_core_) {
@@ -183,9 +183,9 @@ void Query::Search(const Graph &graph, int x) {
        double duration = 0.0;
       //start = clock();//初始化
        start = omp_get_wtime();
-      if (this->Check(graph)) {
+         
+      this->Check(graph);
           //return; ->want to maxmize core_k, cant'return
-      }
 
       // finish = clock();//初始化结束时间
     	finish = omp_get_wtime();
@@ -244,21 +244,60 @@ Graph  Query:: ReidGraph(const Graph &graph, vector<int> & id , int st) {
   //cerr<<"Reid"<<endl;
   //clock_t start1,finish1; 
   //start1 = clock();
+  int query_num = 0;   
   double start1, finish1;
   start1 = omp_get_wtime();
   int max_size = 0;
+  map<int,int> Cond_Attr;
+  for (auto query :this->queries) {
+    Cond_Attr[std::get<0>(query)] = std::get<1>(query);
+    query_num++;
+  }
+  bool attr_flag = false;
+  
   while (!q.empty()) {
     int x = q.front();
     q.pop();
-    if (max_size > this->theory_size_max) break;
+    
+  int attr_count = 0;
+    for (auto attr : graph.vertex_[x].attribute_) {
+      for (auto query : Cond_Attr) {
+         if (attr == query.first) {
+           query.second--;
+         }
+      }
+    }
+  for (auto x : Cond_Attr) {
+    if (x.second <= 0) attr_count++;
+  }
+  if (query_num == attr_count) {
+    attr_flag = true;
+  }
+
+    if (max_size >= this->theory_size_max) break;
+
     max_size += 1;
     for (auto y : graph.edge_[x]) {
       if (vis[y]) continue;
+      if (y < st) continue;
+      bool has_attr=false;
+      for (auto y1 : graph.edge_[y]){
+         for (auto attr_val: graph.vertex_[y1].attribute_) {
+          for (auto query: this->queries) {
+           if (attr_val == std::get<0>(query)) has_attr=true;
+         }
+     }   
    //   if (y < st) continue;
+   }
       vis[y] = 1;
+      if (has_attr) {
+      has_query[y] = 1;
       q.push(y);
       id[y] = ++id_now;
+   }
     }
+
+    if (attr_flag) break;
   }
   //finish1 = clock();
   finish1 = omp_get_wtime();
@@ -567,7 +606,8 @@ void Query::Start(const Graph &graph) {
     this->reid_time = 0.0;
     vector <int> stID  = this->StartID(graph);
     int i;
-  
+    for (int i = 0; i < graph.n_; ++i)
+    has_query[i] = -1;  
   // omp_set_num_threads(32);
 
 // #pragma omp parallel default(shared) private(i)
@@ -578,7 +618,7 @@ void Query::Start(const Graph &graph) {
 
      // clock_t start1,finish1; //定义开始，结束变量
       // start1 = clock();//初始化开始时间
-
+      if (has_query[i] == 1) continue;
        double  start1,finish1; 
         start1 = omp_get_wtime();
 	vector<int> id(graph.n_, -1);
