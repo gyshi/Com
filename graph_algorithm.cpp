@@ -618,7 +618,7 @@ void Query::Start(const Graph &graph) {
 
      // clock_t start1,finish1; //定义开始，结束变量
       // start1 = clock();//初始化开始时间
-      if (has_query[i] == 1) continue;
+     // if (has_query[i] == 1) continue;
        double  start1,finish1; 
         start1 = omp_get_wtime();
 	vector<int> id(graph.n_, -1);
